@@ -1,0 +1,542 @@
+[
+  {
+    "id": "q1",
+    "text": "What does JSX stand for in React?",
+    "answers": [
+      "JavaScript XML",
+      "Extensible Style Language",
+      "XML Script",
+      "React Style Markup"
+    ],
+    "right_answer": "JavaScript XML"
+  },
+  {
+    "id": "q2",
+    "text": "Which method is used to change the state of a React component?",
+    "answers": ["setState", "changeState", "updateState", "modifyState"],
+    "right_answer": "setState"
+  },
+  {
+    "id": "q3",
+    "text": "What is a React component's 'props' short for?",
+    "answers": ["Properties", "Parameters", "Propositions", "Prototypes"],
+    "right_answer": "Properties"
+  },
+  {
+    "id": "q4",
+    "text": "What is the core purpose of Redux in a React application?",
+    "answers": [
+      "State management",
+      "Routing",
+      "Styling",
+      "Component rendering"
+    ],
+    "right_answer": "State management"
+  },
+  {
+    "id": "q5",
+    "text": "What's the virtual DOM in React?",
+    "answers": [
+      "A lightweight representation of the real DOM",
+      "An alternative to HTML",
+      "A component's local state",
+      "A type of routing library"
+    ],
+    "right_answer": "A lightweight representation of the real DOM"
+  },
+  {
+    "id": "q6",
+    "text": "In React, what is the purpose of the 'render' method?",
+    "answers": [
+      "To return JSX to be rendered",
+      "To handle AJAX requests",
+      "To define component styles",
+      "To update component state"
+    ],
+    "right_answer": "To return JSX to be rendered"
+  },
+  {
+    "id": "q7",
+    "text": "What's the key benefit of using React hooks?",
+    "answers": [
+      "State and side-effect management in functional components",
+      "Faster rendering of class components",
+      "Simpler JSX syntax",
+      "Automatic code splitting"
+    ],
+    "right_answer": "State and side-effect management in functional components"
+  },
+  {
+    "id": "q8",
+    "text": "What's the difference between 'controlled' and 'uncontrolled' components in React?",
+    "answers": [
+      "Controlled components are controlled by React state, while uncontrolled components aren't",
+      "Controlled components are limited to functional components, while uncontrolled components can be used in class components",
+      "Controlled components are not recommended in React",
+      "Uncontrolled components are a new feature introduced in React 18"
+    ],
+    "right_answer": "Controlled components are controlled by React state, while uncontrolled components aren't"
+  },
+  {
+    "id": "q9",
+    "text": "What is the purpose of the 'useEffect' hook in React?",
+    "answers": [
+      "To perform side effects in functional components",
+      "To define component styles",
+      "To handle component routing",
+      "To declare component props"
+    ],
+    "right_answer": "To perform side effects in functional components"
+  },
+  {
+    "id": "q10",
+    "text": "What's the primary use of the 'map' function in React?",
+    "answers": [
+      "Iterating over an array and rendering a list of components",
+      "Defining component state",
+      "Creating a new Redux store",
+      "Implementing CSS transitions"
+    ],
+    "right_answer": "Iterating over an array and rendering a list of components"
+  },
+  {
+    "id": "q11",
+    "text": "In React, what does the 'componentDidMount' lifecycle method do?",
+    "answers": [
+      "Invoked immediately after a component is inserted into the DOM",
+      "Invoked when a component is unmounted",
+      "Used for updating component state",
+      "Used for defining component styles"
+    ],
+    "right_answer": "Invoked immediately after a component is inserted into the DOM"
+  },
+  {
+    "id": "q12",
+    "text": "What is the purpose of the 'className' attribute in JSX?",
+    "answers": [
+      "To assign CSS classes to an element",
+      "To define component state",
+      "To specify component props",
+      "To render HTML elements"
+    ],
+    "right_answer": "To assign CSS classes to an element"
+  },
+  {
+    "id": "q13",
+    "text": "Which method should be used to pass data from a child component to a parent component in React?",
+    "answers": [
+      "Callback functions",
+      "Redux",
+      "Props drilling",
+      "State management"
+    ],
+    "right_answer": "Callback functions"
+  },
+  {
+    "id": "q14",
+    "text": "What is React Native primarily used for?",
+    "answers": [
+      "Building mobile applications",
+      "Creating web applications",
+      "Server-side programming",
+      "Machine learning"
+    ],
+    "right_answer": "Building mobile applications"
+  },
+  {
+    "id": "q15",
+    "text": "What's the purpose of the 'key' prop when rendering lists in React?",
+    "answers": [
+      "To help React identify which items have changed, are added, or are removed",
+      "To define component styles",
+      "To control the rendering order of list items",
+      "To set a unique identifier for a component"
+    ],
+    "right_answer": "To help React identify which items have changed, are added, or are removed"
+  },
+  {
+    "id": "q16",
+    "text": "What is the purpose of the 'shouldComponentUpdate' lifecycle method in React?",
+    "answers": [
+      "To optimize rendering performance by controlling when a component should update",
+      "To define component styles",
+      "To fetch data from an API",
+      "To handle routing in a component"
+    ],
+    "right_answer": "To optimize rendering performance by controlling when a component should update"
+  },
+  {
+    "id": "q17",
+    "text": "What is the purpose of React Router in a React application?",
+    "answers": [
+      "To handle client-side routing",
+      "To manage component state",
+      "To define component props",
+      "To create Redux stores"
+    ],
+    "right_answer": "To handle client-side routing"
+  },
+  {
+    "id": "q18",
+    "text": "What is a React component's 'state' used for?",
+    "answers": [
+      "To store and manage data that can change over time",
+      "To define component styles",
+      "To pass data between components",
+      "To render HTML elements"
+    ],
+    "right_answer": "To store and manage data that can change over time"
+  },
+  {
+    "id": "q19",
+    "text": "In React, what is the purpose of the 'Fragment' component?",
+    "answers": [
+      "To group multiple children without adding extra nodes to the DOM",
+      "To define component state",
+      "To create complex animations",
+      "To route between components"
+    ],
+    "right_answer": "To group multiple children without adding extra nodes to the DOM"
+  },
+  {
+    "id": "q20",
+    "text": "What is the primary use of the 'Context' API in React?",
+    "answers": [
+      "To share data between components without passing props manually",
+      "To define component styles",
+      "To create server-side rendering",
+      "To handle form submissions"
+    ],
+    "right_answer": "To share data between components without passing props manually"
+  },
+  {
+    "id": "q21",
+    "text": "What is the purpose of the 'constructor' method in a React class component?",
+    "answers": [
+      "To initialize the component's state and bind methods",
+      "To define component styles",
+      "To fetch data from an API",
+      "To create a new React component"
+    ],
+    "right_answer": "To initialize the component's state and bind methods"
+  },
+  {
+    "id": "q22",
+    "text": "What's the key difference between 'function components' and 'class components' in React?",
+    "answers": [
+      "Syntax and usage of state and lifecycle methods",
+      "Function components are for mobile apps, and class components are for web apps",
+      "Function components are recommended for small projects, while class components are for large projects",
+      "Class components are faster than function components"
+    ],
+    "right_answer": "Syntax and usage of state and lifecycle methods"
+  },
+  {
+    "id": "q23",
+    "text": "What is the purpose of the 'dangerouslySetInnerHTML' prop in React?",
+    "answers": [
+      "To set HTML directly from React",
+      "To define component styles",
+      "To create an unsafe React element",
+      "To manipulate the DOM directly"
+    ],
+    "right_answer": "To set HTML directly from React"
+  },
+  {
+    "id": "q24",
+    "text": "In React, what is a 'higher-order component' (HOC)?",
+    "answers": [
+      "A function that takes a component and returns a new component",
+      "A component that's positioned higher in the component tree",
+      "A component that handles routing",
+      "A component with a high rendering priority"
+    ],
+    "right_answer": "A function that takes a component and returns a new component"
+  },
+  {
+    "id": "q25",
+    "text": "What is the purpose of the 'key' prop when rendering lists in React?",
+    "answers": [
+      "To help React identify which items have changed, are added, or are removed",
+      "To define component styles",
+      "To control the rendering order of list items",
+      "To set a unique identifier for a component"
+    ],
+    "right_answer": "To help React identify which items have changed, are added, or are removed"
+  },
+  {
+    "id": "q26",
+    "text": "In React, what is the purpose of 'componentDidUpdate' lifecycle method?",
+    "answers": [
+      "To perform actions after the component updates",
+      "To define component styles",
+      "To initialize component state",
+      "To unmount a component"
+    ],
+    "right_answer": "To perform actions after the component updates"
+  },
+  {
+    "id": "q27",
+    "text": "What is the purpose of 'PropTypes' in React?",
+    "answers": [
+      "To specify the type of data that a component's props should hold",
+      "To define component styles",
+      "To manage component state",
+      "To create Redux actions"
+    ],
+    "right_answer": "To specify the type of data that a component's props should hold"
+  },
+  {
+    "id": "q28",
+    "text": "What is the purpose of the 'key' prop when rendering lists in React?",
+    "answers": [
+      "To help React identify which items have changed, are added, or are removed",
+      "To define component styles",
+      "To control the rendering order of list items",
+      "To set a unique identifier for a component"
+    ],
+    "right_answer": "To help React identify which items have changed, are added, or are removed"
+  },
+  {
+    "id": "q29",
+    "text": "What is the purpose of the 'React.StrictMode' component?",
+    "answers": [
+      "To highlight potential problems in the application during development",
+      "To optimize rendering performance",
+      "To disable the rendering of components",
+      "To enforce a strict coding style"
+    ],
+    "right_answer": "To highlight potential problems in the application during development"
+  },
+  {
+    "id": "q30",
+    "text": "What is the purpose of the 'useContext' hook in React?",
+    "answers": [
+      "To access the context values from the nearest 'Provider' in the component tree",
+      "To define component styles",
+      "To manage component state",
+      "To create a new component"
+    ],
+    "right_answer": "To access the context values from the nearest 'Provider' in the component tree"
+  },
+  {
+    "id": "q31",
+    "text": "What is the purpose of the 'ErrorBoundary' component in React?",
+    "answers": [
+      "To catch and handle errors in the component tree",
+      "To define component styles",
+      "To create a new Redux store",
+      "To navigate between different components"
+    ],
+    "right_answer": "To catch and handle errors in the component tree"
+  },
+  {
+    "id": "q32",
+    "text": "What is a 'controlled component' in a React form?",
+    "answers": [
+      "A form element whose value is controlled by React state",
+      "A form element that is not rendered",
+      "A component that uses class-based syntax",
+      "A component with a high rendering priority"
+    ],
+    "right_answer": "A form element whose value is controlled by React state"
+  },
+  {
+    "id": "q33",
+    "text": "What is the purpose of the 'useReducer' hook in React?",
+    "answers": [
+      "To manage complex state logic in functional components",
+      "To define component styles",
+      "To create a new Redux store",
+      "To perform AJAX requests"
+    ],
+    "right_answer": "To manage complex state logic in functional components"
+  },
+  {
+    "id": "q34",
+    "text": "What is the purpose of 'React.memo' in React?",
+    "answers": [
+      "To memoize a component for performance optimization",
+      "To define component styles",
+      "To create a new Redux store",
+      "To navigate between different components"
+    ],
+    "right_answer": "To memoize a component for performance optimization"
+  },
+  {
+    "id": "q35",
+    "text": "What is the primary purpose of the 'useRef' hook in React?",
+    "answers": [
+      "To access and interact with DOM elements directly",
+      "To define component styles",
+      "To create a new Redux store",
+      "To manage component state"
+    ],
+    "right_answer": "To access and interact with DOM elements directly"
+  },
+  {
+    "id": "q36",
+    "text": "What is the purpose of 'forwardRef' in React?",
+    "answers": [
+      "To forward a ref to a child component",
+      "To define component styles",
+      "To create a new Redux store",
+      "To perform client-side routing"
+    ],
+    "right_answer": "To forward a ref to a child component"
+  },
+  {
+    "id": "q37",
+    "text": "In React, what is the purpose of 'shouldComponentUpdate' lifecycle method?",
+    "answers": [
+      "To optimize rendering performance by controlling when a component should update",
+      "To define component styles",
+      "To fetch data from an API",
+      "To handle routing in a component"
+    ],
+    "right_answer": "To optimize rendering performance by controlling when a component should update"
+  },
+  {
+    "id": "q38",
+    "text": "What is the purpose of the 'useCallback' hook in React?",
+    "answers": [
+      "To memoize callback functions for performance optimization",
+      "To define component styles",
+      "To create a new Redux store",
+      "To perform AJAX requests"
+    ],
+    "right_answer": "To memoize callback functions for performance optimization"
+  },
+  {
+    "id": "q39",
+    "text": "What does the term 'component state lifting' refer to in React?",
+    "answers": [
+      "Passing state from child to parent components",
+      "Animating components in React",
+      "Managing global state with Redux",
+      "Using React Hooks"
+    ],
+    "right_answer": "Passing state from child to parent components"
+  },
+  {
+    "id": "q40",
+    "text": "What is the purpose of the 'useLayoutEffect' hook in React?",
+    "answers": [
+      "To perform synchronous layout and paint effects",
+      "To define component styles",
+      "To create a new Redux store",
+      "To manage component state"
+    ],
+    "right_answer": "To perform synchronous layout and paint effects"
+  },
+  {
+    "id": "q41",
+    "text": "What is the significance of the 'children' prop in React components?",
+    "answers": [
+      "It represents the child elements of a component",
+      "It defines component styles",
+      "It manages component state",
+      "It triggers component re-renders"
+    ],
+    "right_answer": "It represents the child elements of a component"
+  },
+  {
+    "id": "q42",
+    "text": "What is the purpose of the 'React.Fragment' shorthand syntax in JSX?",
+    "answers": [
+      "To create a wrapper for multiple elements without adding extra nodes to the DOM",
+      "To define component styles",
+      "To manage component state",
+      "To handle form submissions"
+    ],
+    "right_answer": "To create a wrapper for multiple elements without adding extra nodes to the DOM"
+  },
+  {
+    "id": "q43",
+    "text": "What is the purpose of the 'memo' function in React?",
+    "answers": [
+      "To memoize a component for performance optimization",
+      "To define component styles",
+      "To create a new Redux store",
+      "To navigate between different components"
+    ],
+    "right_answer": "To memoize a component for performance optimization"
+  },
+  {
+    "id": "q44",
+    "text": "What is the role of the 'useImperativeHandle' hook in React?",
+    "answers": [
+      "To customize the instance value that is exposed when using React.forwardRef",
+      "To define component styles",
+      "To create a new Redux store",
+      "To manage component state"
+    ],
+    "right_answer": "To customize the instance value that is exposed when using React.forwardRef"
+  },
+  {
+    "id": "q45",
+    "text": "What is the purpose of the 'withRouter' higher-order component (HOC) in React Router?",
+    "answers": [
+      "To provide access to the router's history object in a wrapped component",
+      "To define component styles",
+      "To create a new Redux store",
+      "To navigate between different components"
+    ],
+    "right_answer": "To provide access to the router's history object in a wrapped component"
+  },
+  {
+    "id": "q46",
+    "text": "What is the main difference between 'useEffect' and 'useLayoutEffect' in React?",
+    "answers": [
+      "The timing of when they run during component updates",
+      "Their compatibility with class components",
+      "Their use in server-side rendering",
+      "Their ability to handle routing"
+    ],
+    "right_answer": "The timing of when they run during component updates"
+  },
+  {
+    "id": "q47",
+    "text": "What is the purpose of 'React.lazy' and 'Suspense' in React code splitting?",
+    "answers": [
+      "To enable dynamic loading of components for improved performance",
+      "To define component styles",
+      "To create a new Redux store",
+      "To navigate between different components"
+    ],
+    "right_answer": "To enable dynamic loading of components for improved performance"
+  },
+  {
+    "id": "q48",
+    "text": "What is the 'children' prop commonly used for in React components?",
+    "answers": [
+      "To render child elements and components within a parent component",
+      "To define component styles",
+      "To manage component state",
+      "To handle routing in a component"
+    ],
+    "right_answer": "To render child elements and components within a parent component"
+  },
+  {
+    "id": "q49",
+    "text": "What is the role of 'React.createRef()' in React?",
+    "answers": [
+      "To create a ref object that can be attached to a React element",
+      "To define component styles",
+      "To create a new Redux store",
+      "To navigate between different components"
+    ],
+    "right_answer": "To create a ref object that can be attached to a React element"
+  },
+  {
+    "id": "q50",
+    "text": "What is the purpose of the 'useDebugValue' hook in React?",
+    "answers": [
+      "To provide custom labels for custom hooks in development tools",
+      "To define component styles",
+      "To create a new Redux store",
+      "To manage component state"
+    ],
+    "right_answer": "To provide custom labels for custom hooks in development tools"
+  }
+]

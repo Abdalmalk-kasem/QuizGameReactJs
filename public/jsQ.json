@@ -1,0 +1,477 @@
+[
+  {
+    "id": "q1",
+    "text": "What does the acronym 'JS' stand for?",
+    "answers": ["JavaScript", "Just Saying", "Java Style", "JScript"],
+    "right_answer": "JavaScript"
+  },
+  {
+    "id": "q2",
+    "text": "Which keyword is used to declare a variable in JavaScript?",
+    "answers": ["var", "int", "declare", "variable"],
+    "right_answer": "var"
+  },
+  {
+    "id": "q3",
+    "text": "How do you write a comment in JavaScript?",
+    "answers": [
+      "// This is a comment",
+      "/* This is a comment */",
+      "' This is a comment",
+      "# This is a comment"
+    ],
+    "right_answer": "// This is a comment"
+  },
+  {
+    "id": "q4",
+    "text": "Which symbol is used for single-line comments in JavaScript?",
+    "answers": ["//", "/*", "*/", "#"],
+    "right_answer": "//"
+  },
+  {
+    "id": "q5",
+    "text": "How do you declare a constant variable in JavaScript?",
+    "answers": ["var", "let", "const", "constant"],
+    "right_answer": "const"
+  },
+  {
+    "id": "q6",
+    "text": "Which function is used to output data to the console in JavaScript?",
+    "answers": ["print()", "console.log()", "write()", "output()"],
+    "right_answer": "console.log()"
+  },
+  {
+    "id": "q7",
+    "text": "What is the result of '2' + 2 in JavaScript?",
+    "answers": ["4", "22", "NaN", "Error"],
+    "right_answer": "22"
+  },
+  {
+    "id": "q8",
+    "text": "How do you round a number to the nearest integer in JavaScript?",
+    "answers": ["Math.floor()", "Math.ceil()", "Math.round()", "Math.random()"],
+    "right_answer": "Math.round()"
+  },
+  {
+    "id": "q9",
+    "text": "Which operator is used for strict equality in JavaScript?",
+    "answers": ["==", "===", "!=", "!=="],
+    "right_answer": "==="
+  },
+  {
+    "id": "q10",
+    "text": "What is the 'NaN' in JavaScript?",
+    "answers": [
+      "Not a Number",
+      "New Assignment",
+      "Null and None",
+      "Not Applicable"
+    ],
+    "right_answer": "Not a Number"
+  },
+  {
+    "id": "q11",
+    "text": "Which loop is used to iterate over the properties of an object in JavaScript?",
+    "answers": ["for loop", "while loop", "do-while loop", "for...in loop"],
+    "right_answer": "for...in loop"
+  },
+  {
+    "id": "q12",
+    "text": "What is the purpose of the 'break' statement in a loop?",
+    "answers": [
+      "To exit the loop",
+      "To skip the current iteration",
+      "To continue to the next iteration",
+      "To pause the loop temporarily"
+    ],
+    "right_answer": "To exit the loop"
+  },
+  {
+    "id": "q13",
+    "text": "What is the purpose of the 'continue' statement in a loop?",
+    "answers": [
+      "To exit the loop",
+      "To skip the current iteration",
+      "To continue to the next iteration",
+      "To pause the loop temporarily"
+    ],
+    "right_answer": "To skip the current iteration"
+  },
+  {
+    "id": "q14",
+    "text": "How do you define a function in JavaScript?",
+    "answers": [
+      "function myFunction() {}",
+      "def myFunction() {}",
+      "func myFunction() {}",
+      "define myFunction() {}"
+    ],
+    "right_answer": "function myFunction() {}"
+  },
+  {
+    "id": "q15",
+    "text": "What is the result of '5' + 5 in JavaScript?",
+    "answers": ["10", "55", "NaN", "Error"],
+    "right_answer": "55"
+  },
+  {
+    "id": "q16",
+    "text": "How do you check the type of a variable in JavaScript?",
+    "answers": [
+      "typeof variable",
+      "type(variable)",
+      "var.type()",
+      "variable.getType()"
+    ],
+    "right_answer": "typeof variable"
+  },
+  {
+    "id": "q17",
+    "text": "What is an 'array' in JavaScript?",
+    "answers": [
+      "A data structure to store key-value pairs",
+      "A collection of numbers",
+      "A collection of elements, each identified by an index or a key",
+      "A type of variable"
+    ],
+    "right_answer": "A collection of elements, each identified by an index or a key"
+  },
+  {
+    "id": "q18",
+    "text": "How do you add a comment in a JavaScript object?",
+    "answers": [
+      "// This is a comment",
+      "' This is a comment",
+      "/* This is a comment */",
+      "# This is a comment"
+    ],
+    "right_answer": "// This is a comment"
+  },
+  {
+    "id": "q19",
+    "text": "What is the purpose of the 'push' method in JavaScript arrays?",
+    "answers": [
+      "To add a new element to the beginning of an array",
+      "To add a new element to the end of an array",
+      "To remove the first element of an array",
+      "To remove the last element of an array"
+    ],
+    "right_answer": "To add a new element to the end of an array"
+  },
+  {
+    "id": "q20",
+    "text": "Which function is used to convert a string to an integer in JavaScript?",
+    "answers": [
+      "parseInt()",
+      "parseInteger()",
+      "stringToInteger()",
+      "strToInt()"
+    ],
+    "right_answer": "parseInt()"
+  },
+  {
+    "id": "q21",
+    "text": "What is the purpose of the 'pop' method in JavaScript arrays?",
+    "answers": [
+      "To add a new element to the beginning of an array",
+      "To add a new element to the end of an array",
+      "To remove the first element of an array",
+      "To remove the last element of an array"
+    ],
+    "right_answer": "To remove the last element of an array"
+  },
+  {
+    "id": "q22",
+    "text": "What does the 'typeof' operator return for an array in JavaScript?",
+    "answers": ["array", "object", "typeof array", "array[]"],
+    "right_answer": "object"
+  },
+  {
+    "id": "q23",
+    "text": "How do you add a key-value pair to an object in JavaScript?",
+    "answers": [
+      "object.add(key, value)",
+      "object[key] = value",
+      "object.setValue(key, value)",
+      "object.insert(key, value)"
+    ],
+    "right_answer": "object[key] = value"
+  },
+  {
+    "id": "q24",
+    "text": "What is the purpose of the 'this' keyword in JavaScript?",
+    "answers": [
+      "To reference the current function",
+      "To reference the parent object",
+      "To reference the global object",
+      "To create a new object"
+    ],
+    "right_answer": "To reference the parent object"
+  },
+  {
+    "id": "q25",
+    "text": "What is an 'event handler' in JavaScript?",
+    "answers": [
+      "A function that handles mouse events",
+      "A function that handles errors",
+      "A function that handles user input",
+      "A function that handles events triggered by the user or the browser"
+    ],
+    "right_answer": "A function that handles events triggered by the user or the browser"
+  },
+  {
+    "id": "q26",
+    "text": "What is the purpose of the 'addEventListener' method in JavaScript?",
+    "answers": [
+      "To add a variable to an object",
+      "To add a comment to the code",
+      "To attach an event handler to an element",
+      "To create a new element"
+    ],
+    "right_answer": "To attach an event handler to an element"
+  },
+  {
+    "id": "q27",
+    "text": "How do you check if a variable is 'undefined' in JavaScript?",
+    "answers": [
+      "variable.undefined",
+      "typeof variable === 'undefined'",
+      "variable.isNull",
+      "variable.isUndefined"
+    ],
+    "right_answer": "typeof variable === 'undefined'"
+  },
+  {
+    "id": "q28",
+    "text": "What does 'JSON' stand for in JavaScript?",
+    "answers": [
+      "JavaScript Object Notation",
+      "JavaScript Open Network",
+      "JavaScript Option",
+      "JavaScript Online Notation"
+    ],
+    "right_answer": "JavaScript Object Notation"
+  },
+  {
+    "id": "q29",
+    "text": "How do you declare and initialize an array in JavaScript?",
+    "answers": [
+      "var array = []",
+      "array = new Array()",
+      "array[] = {}",
+      "array() = []"
+    ],
+    "right_answer": "var array = []"
+  },
+  {
+    "id": "q30",
+    "text": "What is the purpose of the 'splice' method in JavaScript?",
+    "answers": [
+      "To add elements to an array",
+      "To remove elements from an array",
+      "To replace elements in an array",
+      "To sort an array"
+    ],
+    "right_answer": "To remove elements from an array"
+  },
+  {
+    "id": "q31",
+    "text": "What is a 'closure' in JavaScript?",
+    "answers": [
+      "A function that takes another function as an argument",
+      "A function that can access variables from its containing function even after that function has finished executing",
+      "A function that is defined inside another function",
+      "A function that is used to close a program"
+    ],
+    "right_answer": "A function that can access variables from its containing function even after that function has finished executing"
+  },
+  {
+    "id": "q32",
+    "text": "What is the purpose of the 'split' method in JavaScript?",
+    "answers": [
+      "To combine two arrays into one",
+      "To split a string into an array of substrings",
+      "To remove elements from an array",
+      "To find the index of an element in an array"
+    ],
+    "right_answer": "To split a string into an array of substrings"
+  },
+  {
+    "id": "q33",
+    "text": "How do you create a new object in JavaScript?",
+    "answers": ["object = new Object()", "object.new()", "new object{}", "{}"],
+    "right_answer": "{}"
+  },
+  {
+    "id": "q34",
+    "text": "What is the purpose of the 'NaN' property in JavaScript?",
+    "answers": [
+      "To check if a value is a number",
+      "To check if a value is not a number",
+      "To check if a value is null",
+      "To check if a value is a string"
+    ],
+    "right_answer": "To check if a value is not a number"
+  },
+  {
+    "id": "q35",
+    "text": "What is an 'IIFE' in JavaScript?",
+    "answers": [
+      "Immediately Invoked Function Expression",
+      "Internet Interface Function Element",
+      "Inherited Internal Function Event",
+      "Integrated Input Function Entity"
+    ],
+    "right_answer": "Immediately Invoked Function Expression"
+  },
+  {
+    "id": "q36",
+    "text": "How do you access the first element of an array in JavaScript?",
+    "answers": [
+      "array[0]",
+      "array.first()",
+      "array.getElement(1)",
+      "array.get(0)"
+    ],
+    "right_answer": "array[0]"
+  },
+  {
+    "id": "q37",
+    "text": "What is the purpose of the 'map' method in JavaScript?",
+    "answers": [
+      "To create a new array with the results of applying a function to each element of an array",
+      "To add elements to an array",
+      "To remove elements from an array",
+      "To sort an array"
+    ],
+    "right_answer": "To create a new array with the results of applying a function to each element of an array"
+  },
+  {
+    "id": "q38",
+    "text": "What is the result of 10 / 0 in JavaScript?",
+    "answers": ["10", "0", "Infinity", "NaN"],
+    "right_answer": "Infinity"
+  },
+  {
+    "id": "q39",
+    "text": "What is the purpose of the 'localStorage' object in JavaScript?",
+    "answers": [
+      "To store data in a cookie",
+      "To store data on the server",
+      "To store data on the client's computer",
+      "To store data in the cloud"
+    ],
+    "right_answer": "To store data on the client's computer"
+  },
+  {
+    "id": "q40",
+    "text": "How do you check if a variable is an array in JavaScript?",
+    "answers": [
+      "typeof variable === 'array'",
+      "variable.isArray()",
+      "Array.isArray(variable)",
+      "variable.isType('array')"
+    ],
+    "right_answer": "Array.isArray(variable)"
+  },
+  {
+    "id": "q41",
+    "text": "What is the purpose of the 'find' method in JavaScript arrays?",
+    "answers": [
+      "To add elements to an array",
+      "To remove elements from an array",
+      "To find the index of an element in an array",
+      "To find the first element that satisfies a given condition"
+    ],
+    "right_answer": "To find the first element that satisfies a given condition"
+  },
+  {
+    "id": "q42",
+    "text": "How do you check if a variable is an object in JavaScript?",
+    "answers": [
+      "variable.isObject()",
+      "typeof variable === 'object'",
+      "Object.isObject(variable)",
+      "variable.isType('object')"
+    ],
+    "right_answer": "typeof variable === 'object'"
+  },
+  {
+    "id": "q43",
+    "text": "What is the result of '5' - 3 in JavaScript?",
+    "answers": ["8", "2", "53", "NaN"],
+    "right_answer": "2"
+  },
+  {
+    "id": "q44",
+    "text": "What does the 'Math.random()' function return in JavaScript?",
+    "answers": [
+      "A random integer",
+      "A random decimal number between 0 and 1",
+      "The current date and time",
+      "The square root of a number"
+    ],
+    "right_answer": "A random decimal number between 0 and 1"
+  },
+  {
+    "id": "q45",
+    "text": "What is the purpose of the 'reduce' method in JavaScript arrays?",
+    "answers": [
+      "To add elements to an array",
+      "To remove elements from an array",
+      "To reduce the size of an array",
+      "To apply a function to each element of an array and reduce it to a single value"
+    ],
+    "right_answer": "To apply a function to each element of an array and reduce it to a single value"
+  },
+  {
+    "id": "q46",
+    "text": "What is the result of 'undefined' == null in JavaScript?",
+    "answers": ["true", "false", "undefined", "null"],
+    "right_answer": "true"
+  },
+  {
+    "id": "q47",
+    "text": "What is the purpose of the 'charAt' method in JavaScript?",
+    "answers": [
+      "To add characters to a string",
+      "To remove characters from a string",
+      "To replace characters in a string",
+      "To access the character at a specified index in a string"
+    ],
+    "right_answer": "To access the character at a specified index in a string"
+  },
+  {
+    "id": "q48",
+    "text": "What is the purpose of the 'concat' method in JavaScript arrays?",
+    "answers": [
+      "To add elements to an array",
+      "To remove elements from an array",
+      "To concatenate two or more arrays and return a new array",
+      "To sort an array"
+    ],
+    "right_answer": "To concatenate two or more arrays and return a new array"
+  },
+  {
+    "id": "q49",
+    "text": "How do you check if a string contains a specific substring in JavaScript?",
+    "answers": [
+      "string.contains(substring)",
+      "string.indexOf(substring) !== -1",
+      "string.includes(substring)",
+      "string.indexOf(substring) === 0"
+    ],
+    "right_answer": "string.includes(substring)"
+  },
+  {
+    "id": "q50",
+    "text": "What is the purpose of the 'toFixed' method in JavaScript?",
+    "answers": [
+      "To round a number to the nearest integer",
+      "To format a number with a specified number of decimal places",
+      "To find the maximum value in an array",
+      "To convert a number to a string"
+    ],
+    "right_answer": "To format a number with a specified number of decimal places"
+  }
+]

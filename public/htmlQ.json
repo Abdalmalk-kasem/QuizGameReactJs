@@ -1,0 +1,417 @@
+[
+  {
+    "id": "q1",
+    "text": "What does HTML stand for?",
+    "answers": [
+      "Hypertext Transfer Language",
+      "Hypertext Markup Language",
+      "Hyper Transfer Markup Language",
+      "Hyperlink and Text Markup Language"
+    ],
+    "right_answer": "Hypertext Markup Language"
+  },
+  {
+    "id": "q2",
+    "text": "What is the latest version of HTML as of 2022?",
+    "answers": ["HTML5", "HTMLX", "HTML2022", "HTML4"],
+    "right_answer": "HTML5"
+  },
+  {
+    "id": "q3",
+    "text": "Which HTML tag is used for creating an ordered list?",
+    "answers": ["<ul>", "<ol>", "<li>", "<list>"],
+    "right_answer": "<ol>"
+  },
+  {
+    "id": "q4",
+    "text": "What is the correct HTML for creating a hyperlink?",
+    "answers": [
+      "<link href='http://example.com'>Example</link>",
+      "<a href='http://example.com'>Example</a>",
+      "<href link='http://example.com'>Example</href>",
+      "<a>http://example.com</a>"
+    ],
+    "right_answer": "<a href='http://example.com'>Example</a>"
+  },
+  {
+    "id": "q5",
+    "text": "Which HTML tag is used for creating a line break?",
+    "answers": ["<lb>", "<break>", "<br>", "<newline>"],
+    "right_answer": "<br>"
+  },
+  {
+    "id": "q6",
+    "text": "What does the HTML 'img' tag stand for?",
+    "answers": ["Image", "Link", "Bold", "Italic"],
+    "right_answer": "Image"
+  },
+  {
+    "id": "q7",
+    "text": "What is the correct HTML for adding a background color?",
+    "answers": [
+      "<background>yellow</background>",
+      "<color>yellow</color>",
+      "<bgcolor>yellow</bgcolor>",
+      "<body style='background-color: yellow;'>"
+    ],
+    "right_answer": "<body style='background-color: yellow;'>"
+  },
+  {
+    "id": "q8",
+    "text": "Which HTML tag is used for creating a table row?",
+    "answers": ["<td>", "<tr>", "<table-row>", "<th>"],
+    "right_answer": "<tr>"
+  },
+  {
+    "id": "q9",
+    "text": "What is the purpose of the HTML 'meta' tag?",
+    "answers": [
+      "Define a paragraph",
+      "Define metadata about an HTML document",
+      "Create a hyperlink",
+      "Format text"
+    ],
+    "right_answer": "Define metadata about an HTML document"
+  },
+  {
+    "id": "q10",
+    "text": "What is the correct HTML for creating a checkbox?",
+    "answers": [
+      "<input type='check'>",
+      "<input type='checkbox'>",
+      "<checkbox>",
+      "<check>"
+    ],
+    "right_answer": "<input type='checkbox'>"
+  },
+  {
+    "id": "q11",
+    "text": "What is the purpose of the HTML 'alt' attribute in an image tag?",
+    "answers": [
+      "Alternative text for the image",
+      "Alignment of the image",
+      "Altitude of the image",
+      "Animation of the image"
+    ],
+    "right_answer": "Alternative text for the image"
+  },
+  {
+    "id": "q12",
+    "text": "Which HTML element is used to define the title of a document?",
+    "answers": ["<title>", "<head>", "<h1>", "<header>"],
+    "right_answer": "<title>"
+  },
+  {
+    "id": "q13",
+    "text": "In HTML, what does the <br> tag stand for?",
+    "answers": ["Break", "Bold Row", "Blank Row", "Break Row"],
+    "right_answer": "Break"
+  },
+  {
+    "id": "q14",
+    "text": "What is the correct way to comment out multiple lines in HTML?",
+    "answers": [
+      "<!-- This is a comment -->",
+      "// This is a comment //",
+      "/* This is a comment */",
+      "** This is a comment **"
+    ],
+    "right_answer": "<!-- This is a comment -->"
+  },
+  {
+    "id": "q15",
+    "text": "Which HTML attribute is used to define inline styles?",
+    "answers": ["style", "css", "design", "format"],
+    "right_answer": "style"
+  },
+  {
+    "id": "q16",
+    "text": "What is the correct HTML for creating a horizontal rule?",
+    "answers": ["<hr>", "<line>", "<rule>", "<horizontal>"],
+    "right_answer": "<hr>"
+  },
+  {
+    "id": "q17",
+    "text": "Which HTML tag is used for creating a dropdown list?",
+    "answers": ["<select>", "<dropdown>", "<list>", "<menu>"],
+    "right_answer": "<select>"
+  },
+  {
+    "id": "q18",
+    "text": "What is the correct HTML for adding a comment?",
+    "answers": [
+      "<comment>This is a comment</comment>",
+      "<!-- This is a comment -->",
+      "<!--- This is a comment --->",
+      "<!- This is a comment ->"
+    ],
+    "right_answer": "<!-- This is a comment -->"
+  },
+  {
+    "id": "q19",
+    "text": "What is the purpose of the HTML 'href' attribute in an anchor tag?",
+    "answers": [
+      "Heading reference",
+      "Hyperlink reference",
+      "Highlight reference",
+      "Hierarchy reference"
+    ],
+    "right_answer": "Hyperlink reference"
+  },
+  {
+    "id": "q20",
+    "text": "Which HTML tag is used for creating a clickable button?",
+    "answers": ["<button>", "<click>", "<action>", "<link>"],
+    "right_answer": "<button>"
+  },
+  {
+    "id": "q21",
+    "text": "What is the correct HTML for creating a line break?",
+    "answers": ["<lb>", "<break>", "<br>", "<newline>"],
+    "right_answer": "<br>"
+  },
+  {
+    "id": "q22",
+    "text": "What does the HTML 'doctype' declaration do?",
+    "answers": [
+      "Defines the document type and version",
+      "Declares the document as HTML",
+      "Creates a new document",
+      "Defines the font used in the document"
+    ],
+    "right_answer": "Defines the document type and version"
+  },
+  {
+    "id": "q23",
+    "text": "Which HTML tag is used for creating a horizontal rule?",
+    "answers": ["<hr>", "<line>", "<rule>", "<horizontal>"],
+    "right_answer": "<hr>"
+  },
+  {
+    "id": "q24",
+    "text": "What is the purpose of the HTML 'title' element?",
+    "answers": [
+      "Defines the main heading of the document",
+      "Sets the background color of the document",
+      "Creates a clickable link",
+      "Defines the title of the document displayed in the browser"
+    ],
+    "right_answer": "Defines the title of the document displayed in the browser"
+  },
+  {
+    "id": "q25",
+    "text": "Which HTML element is used for creating a paragraph?",
+    "answers": ["<para>", "<p>", "<pg>", "<par>"],
+    "right_answer": "<p>"
+  },
+  {
+    "id": "q26",
+    "text": "What is the purpose of the HTML 'style' tag?",
+    "answers": [
+      "Defines the document's structure",
+      "Defines the document's style",
+      "Defines the document's language",
+      "Defines the document's script"
+    ],
+    "right_answer": "Defines the document's style"
+  },
+  {
+    "id": "q27",
+    "text": "Which HTML attribute is used to define the alternative text for an image?",
+    "answers": ["alt", "text", "description", "caption"],
+    "right_answer": "alt"
+  },
+  {
+    "id": "q28",
+    "text": "What is the correct HTML for creating a hyperlink to an email address?",
+    "answers": [
+      "<a href='mailto:email@example.com'>Send email</a>",
+      "<mail>email@example.com</mail>",
+      "<link>email@example.com</link>",
+      "<email href='email@example.com'>Send email</email>"
+    ],
+    "right_answer": "<a href='mailto:email@example.com'>Send email</a>"
+  },
+  {
+    "id": "q29",
+    "text": "What is the purpose of the HTML 'div' element?",
+    "answers": [
+      "Defines a division or section in an HTML document",
+      "Defines a hyperlink",
+      "Defines a list of items",
+      "Defines a bold text"
+    ],
+    "right_answer": "Defines a division or section in an HTML document"
+  },
+  {
+    "id": "q30",
+    "text": "Which HTML element is used for creating a numbered list?",
+    "answers": ["<ol>", "<ul>", "<li>", "<list>"],
+    "right_answer": "<ol>"
+  },
+  {
+    "id": "q31",
+    "text": "What is the correct HTML for creating a comment?",
+    "answers": [
+      "<comment>This is a comment</comment>",
+      "<!-- This is a comment -->",
+      "<!--- This is a comment --->",
+      "<!- This is a comment ->"
+    ],
+    "right_answer": "<!-- This is a comment -->"
+  },
+  {
+    "id": "q32",
+    "text": "Which HTML attribute is used to define the target URL for a hyperlink?",
+    "answers": ["target", "url", "link", "href"],
+    "right_answer": "href"
+  },
+  {
+    "id": "q33",
+    "text": "What is the correct HTML for creating a table?",
+    "answers": ["<table>", "<tabular>", "<tbl>", "<grid>"],
+    "right_answer": "<table>"
+  },
+  {
+    "id": "q34",
+    "text": "What is the purpose of the HTML 'form' element?",
+    "answers": [
+      "Defines a section in an HTML document",
+      "Defines a clickable button",
+      "Defines a container for form elements",
+      "Defines a comment in the document"
+    ],
+    "right_answer": "Defines a container for form elements"
+  },
+  {
+    "id": "q35",
+    "text": "Which HTML element is used for creating a line break?",
+    "answers": ["<lb>", "<break>", "<br>", "<newline>"],
+    "right_answer": "<br>"
+  },
+  {
+    "id": "q36",
+    "text": "What is the purpose of the HTML 'head' element?",
+    "answers": [
+      "Defines a heading for a section",
+      "Defines the main content of the document",
+      "Defines metadata about the document",
+      "Defines a hyperlink"
+    ],
+    "right_answer": "Defines metadata about the document"
+  },
+  {
+    "id": "q37",
+    "text": "Which HTML element is used for creating a clickable link?",
+    "answers": ["<a>", "<link>", "<href>", "<url>"],
+    "right_answer": "<a>"
+  },
+  {
+    "id": "q38",
+    "text": "What is the correct HTML for creating a checkbox?",
+    "answers": [
+      "<input type='check'>",
+      "<input type='checkbox'>",
+      "<checkbox>",
+      "<check>"
+    ],
+    "right_answer": "<input type='checkbox'>"
+  },
+  {
+    "id": "q39",
+    "text": "What is the purpose of the HTML 'alt' attribute in an image tag?",
+    "answers": [
+      "Alternative text for the image",
+      "Alignment of the image",
+      "Altitude of the image",
+      "Animation of the image"
+    ],
+    "right_answer": "Alternative text for the image"
+  },
+  {
+    "id": "q40",
+    "text": "Which HTML element is used for creating a dropdown list?",
+    "answers": ["<select>", "<dropdown>", "<list>", "<menu>"],
+    "right_answer": "<select>"
+  },
+  {
+    "id": "q41",
+    "text": "What is the correct HTML for creating a horizontal rule?",
+    "answers": ["<hr>", "<line>", "<rule>", "<horizontal>"],
+    "right_answer": "<hr>"
+  },
+  {
+    "id": "q42",
+    "text": "What is the purpose of the HTML 'style' tag?",
+    "answers": [
+      "Defines the document's structure",
+      "Defines the document's style",
+      "Defines the document's language",
+      "Defines the document's script"
+    ],
+    "right_answer": "Defines the document's style"
+  },
+  {
+    "id": "q43",
+    "text": "Which HTML attribute is used to define the alternative text for an image?",
+    "answers": ["alt", "text", "description", "caption"],
+    "right_answer": "alt"
+  },
+  {
+    "id": "q44",
+    "text": "What is the purpose of the HTML 'aside' element?",
+    "answers": [
+      "Defines a footer for a section",
+      "Defines content aside from the content it is placed in",
+      "Defines a header for a section",
+      "Defines a clickable link"
+    ],
+    "right_answer": "Defines content aside from the content it is placed in"
+  },
+  {
+    "id": "q45",
+    "text": "Which HTML tag is used for creating a subscript text?",
+    "answers": ["<sub>", "<sup>", "<subtext>", "<subscript>"],
+    "right_answer": "<sub>"
+  },
+  {
+    "id": "q46",
+    "text": "What does the HTML 'abbr' tag do?",
+    "answers": [
+      "Defines an abbreviation or acronym",
+      "Defines an address",
+      "Defines an anchor link",
+      "Defines an article"
+    ],
+    "right_answer": "Defines an abbreviation or acronym"
+  },
+  {
+    "id": "q47",
+    "text": "Which HTML tag is used for creating a hyperlink to another webpage?",
+    "answers": ["<link>", "<a>", "<href>", "<url>"],
+    "right_answer": "<a>"
+  },
+  {
+    "id": "q48",
+    "text": "What is the correct HTML for creating a level-one heading?",
+    "answers": ["<h1>", "<heading1>", "<level1>", "<head1>"],
+    "right_answer": "<h1>"
+  },
+  {
+    "id": "q49",
+    "text": "Which HTML element is used for creating a list item?",
+    "answers": ["<li>", "<listitem>", "<item>", "<list>"],
+    "right_answer": "<li>"
+  },
+  {
+    "id": "q50",
+    "text": "What is the purpose of the HTML 'iframe' element?",
+    "answers": [
+      "Defines a paragraph within an iframe",
+      "Defines a clickable button",
+      "Defines an inline frame for embedding external content",
+      "Defines an italicized text"
+    ],
+    "right_answer": "Defines an inline frame for embedding external content"
+  }
+]

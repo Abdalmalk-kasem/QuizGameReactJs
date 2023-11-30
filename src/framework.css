@@ -1,0 +1,125 @@
+/*Flex / Grid [Start]*/
+.d-flex {
+  display: flex;
+}
+
+.flex-cc {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.flex-align-c-space-b {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.gap-10 {
+  gap: 10px;
+}
+
+.gap-15 {
+  gap: 15px;
+}
+
+.gap-20 {
+  gap: 20px;
+}
+
+/*Flex / Grid [End]*/
+
+/*Position [Start]*/
+
+.c-absolute {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+}
+
+/*Position [End]*/
+
+/*Padding / Margin [Start]*/
+
+.mt-10 {
+  margin-top: 10px;
+}
+
+.mb-15 {
+  margin-bottom: 15px;
+}
+
+.ml-10 {
+  margin-left: 10px;
+}
+
+/*Padding / Margin [End]*/
+
+/*Border [Start]*/
+
+.rad-10 {
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+
+.rad-6 {
+  border-radius: 6px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -ms-border-radius: 6px;
+  -o-border-radius: 6px;
+}
+
+.rad-50 {
+  border-radius: 50px;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  -ms-border-radius: 50px;
+  -o-border-radius: 50px;
+}
+
+.shadow-normal {
+  box-shadow: 0px 0px 15px 0 rgba(0, 0, 0, 0.2);
+}
+
+/*Border [End]*/
+
+/*Color [Start]*/
+
+.c-777 {
+  color: #777;
+}
+
+.bg-f9 {
+  background-color: #f9f9f9;
+}
+
+/*Color [End]*/
+
+/*Font [Start]*/
+
+.fs-18 {
+  font-size: 18px;
+}
+
+.fs-24 {
+  font-size: 24px;
+}
+
+.fw-500 {
+  font-weight: 500;
+}
+
+.fw-600 {
+  font-weight: 600;
+}
+
+/*Font [End]*/

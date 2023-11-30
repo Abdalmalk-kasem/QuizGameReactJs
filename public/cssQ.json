@@ -1,0 +1,936 @@
+[
+  {
+    "id": "q1",
+    "text": "What does 'CSS' stand for in web development?",
+    "answers": [
+      "Cascading Style Sheet",
+      "Computer Style Sheet",
+      "Creative Style Sheet",
+      "Cascading Script Style"
+    ],
+    "right_answer": "Cascading Style Sheet"
+  },
+  {
+    "id": "q2",
+    "text": "What property is used to set the background color of an element in CSS?",
+    "answers": ["color", "background-color", "text-color", "element-color"],
+    "right_answer": "background-color"
+  },
+  {
+    "id": "q3",
+    "text": "How can you select all elements with the class name 'example' in CSS?",
+    "answers": [".example", "#example", "element.example", "class(example)"],
+    "right_answer": ".example"
+  },
+  {
+    "id": "q4",
+    "text": "Which CSS property is used to control the spacing between lines of text?",
+    "answers": [
+      "line-height",
+      "font-spacing",
+      "text-spacing",
+      "letter-spacing"
+    ],
+    "right_answer": "line-height"
+  },
+  {
+    "id": "q5",
+    "text": "In CSS, what property is used to control the size of an element's font?",
+    "answers": ["font-size", "text-size", "element-size", "size"],
+    "right_answer": "font-size"
+  },
+  {
+    "id": "q6",
+    "text": "Which CSS property is used to control the order of a flexible item within a flex container?",
+    "answers": ["order", "flex-order", "item-order", "flex-item-order"],
+    "right_answer": "order"
+  },
+  {
+    "id": "q7",
+    "text": "What is the default value of the 'position' property in CSS?",
+    "answers": ["static", "relative", "absolute", "fixed"],
+    "right_answer": "static"
+  },
+  {
+    "id": "q8",
+    "text": "In CSS, how can you make text appear in uppercase letters?",
+    "answers": [
+      "text-transform: uppercase",
+      "text-style: uppercase",
+      "text-case: upper",
+      "text-effect: uppercase"
+    ],
+    "right_answer": "text-transform: uppercase"
+  },
+  {
+    "id": "q9",
+    "text": "Which CSS property is used to add rounded corners to an element?",
+    "answers": [
+      "border-radius",
+      "corner-radius",
+      "round-corners",
+      "element-rounding"
+    ],
+    "right_answer": "border-radius"
+  },
+  {
+    "id": "q10",
+    "text": "What does the 'z-index' property in CSS control?",
+    "answers": [
+      "The stacking order of elements",
+      "The font size of text",
+      "The color of the background",
+      "The element's width"
+    ],
+    "right_answer": "The stacking order of elements"
+  },
+  {
+    "id": "q11",
+    "text": "In CSS, what is the 'box-sizing' property used for?",
+    "answers": [
+      "Controlling how an element's width and height are calculated",
+      "Setting the background color of an element",
+      "Defining the element's position",
+      "Adjusting the element's font size"
+    ],
+    "right_answer": "Controlling how an element's width and height are calculated"
+  },
+  {
+    "id": "q12",
+    "text": "What is the CSS property used to change the color of text within an element?",
+    "answers": ["color", "text-color", "font-color", "element-color"],
+    "right_answer": "color"
+  },
+  {
+    "id": "q13",
+    "text": "Which CSS property is used to specify the type of list marker for list items?",
+    "answers": [
+      "list-style-type",
+      "marker-style",
+      "list-marker",
+      "item-marker-type"
+    ],
+    "right_answer": "list-style-type"
+  },
+  {
+    "id": "q14",
+    "text": "In CSS, how can you hide an element, making it invisible on the page?",
+    "answers": [
+      "display: none",
+      "visibility: hidden",
+      "opacity: 0",
+      "hidden: true"
+    ],
+    "right_answer": "display: none"
+  },
+  {
+    "id": "q15",
+    "text": "Which CSS property is used to create a shadow effect for text?",
+    "answers": ["text-shadow", "text-effect", "shadow-text", "text-outline"],
+    "right_answer": "text-shadow"
+  },
+  {
+    "id": "q16",
+    "text": "What does the 'float' property in CSS do?",
+    "answers": [
+      "Specifies how an element should be positioned within its parent container",
+      "Controls the element's font size",
+      "Sets the element's background color",
+      "Adds a border to the element"
+    ],
+    "right_answer": "Specifies how an element should be positioned within its parent container"
+  },
+  {
+    "id": "q17",
+    "text": "Which CSS property is used to set the space between the outer edges of a box and the content within it?",
+    "answers": ["padding", "margin", "border", "spacing"],
+    "right_answer": "padding"
+  },
+  {
+    "id": "q18",
+    "text": "In CSS, what property is used to control the alignment of text within its containing element?",
+    "answers": ["text-align", "text-position", "alignment", "element-align"],
+    "right_answer": "text-align"
+  },
+  {
+    "id": "q19",
+    "text": "What is the purpose of the 'clear' property in CSS?",
+    "answers": [
+      "To control how elements clear floats",
+      "To set the color of text",
+      "To add padding to an element",
+      "To change the font size of text"
+    ],
+    "right_answer": "To control how elements clear floats"
+  },
+  {
+    "id": "q20",
+    "text": "What is the CSS property used to control the order of list items?",
+    "answers": ["order", "list-order", "item-order", "list-item-order"],
+    "right_answer": "order"
+  },
+  {
+    "id": "q21",
+    "text": "In CSS, what property is used to control the width of an element's border?",
+    "answers": [
+      "border-width",
+      "border-size",
+      "element-border",
+      "border-spacing"
+    ],
+    "right_answer": "border-width"
+  },
+  {
+    "id": "q22",
+    "text": "What is the CSS property used to control the spacing between letters in a text?",
+    "answers": [
+      "letter-spacing",
+      "text-spacing",
+      "word-spacing",
+      "line-spacing"
+    ],
+    "right_answer": "letter-spacing"
+  },
+  {
+    "id": "q23",
+    "text": "Which CSS property is used to set the style of an element's border?",
+    "answers": ["border-style", "element-style", "style", "border-appearance"],
+    "right_answer": "border-style"
+  },
+  {
+    "id": "q24",
+    "text": "In CSS, how can you make an element's text italicized?",
+    "answers": [
+      "font-style: italic",
+      "text-style: italic",
+      "text-italic: true",
+      "element-style: italic"
+    ],
+    "right_answer": "font-style: italic"
+  },
+  {
+    "id": "q25",
+    "text": "What CSS property is used to change the background image of an element?",
+    "answers": ["background-image", "image", "element-image", "bg-image"],
+    "right_answer": "background-image"
+  },
+  {
+    "id": "q26",
+    "text": "Which CSS property is used to change the color of an element's border?",
+    "answers": ["border-color", "element-color", "color", "border"],
+    "right_answer": "border-color"
+  },
+  {
+    "id": "q27",
+    "text": "In CSS, what is the purpose of the 'overflow' property?",
+    "answers": [
+      "To control how content overflows an element's box",
+      "To hide an element",
+      "To set the element's width",
+      "To adjust the font size of text"
+    ],
+    "right_answer": "To control how content overflows an element's box"
+  },
+  {
+    "id": "q28",
+    "text": "What is the CSS property used to change the style of a list marker?",
+    "answers": [
+      "list-style-image",
+      "marker-style",
+      "list-marker",
+      "item-marker-style"
+    ],
+    "right_answer": "list-style-image"
+  },
+  {
+    "id": "q29",
+    "text": "Which CSS property is used to control the position of an element within its containing element?",
+    "answers": [
+      "position",
+      "element-position",
+      "placement",
+      "container-position"
+    ],
+    "right_answer": "position"
+  },
+  {
+    "id": "q30",
+    "text": "In CSS, how can you remove the underlines from hyperlinks?",
+    "answers": [
+      "text-decoration: none",
+      "link-decoration: none",
+      "underline: none",
+      "hyperlink-style: none"
+    ],
+    "right_answer": "text-decoration: none"
+  },
+  {
+    "id": "q31",
+    "text": "What does the CSS property 'opacity' control?",
+    "answers": [
+      "The transparency of an element",
+      "The element's font size",
+      "The color of the background",
+      "The element's width"
+    ],
+    "right_answer": "The transparency of an element"
+  },
+  {
+    "id": "q32",
+    "text": "In CSS, what property is used to specify the maximum width of an element?",
+    "answers": [
+      "max-width",
+      "element-width",
+      "width-limit",
+      "element-max-width"
+    ],
+    "right_answer": "max-width"
+  },
+  {
+    "id": "q33",
+    "text": "Which CSS property is used to create a 3D effect on text or elements?",
+    "answers": ["transform", "effect", "3d-effect", "element-transform"],
+    "right_answer": "transform"
+  },
+  {
+    "id": "q34",
+    "text": "What is the purpose of the 'content' property in CSS?",
+    "answers": [
+      "To insert generated content before or after an element",
+      "To control the element's font size",
+      "To add padding to an element",
+      "To change the color of text"
+    ],
+    "right_answer": "To insert generated content before or after an element"
+  },
+  {
+    "id": "q35",
+    "text": "In CSS, what property is used to control the color of the border of an element?",
+    "answers": ["border-color", "element-color", "color", "border"],
+    "right_answer": "border-color"
+  },
+  {
+    "id": "q36",
+    "text": "Which CSS property is used to control the spacing between words in a text?",
+    "answers": [
+      "word-spacing",
+      "text-spacing",
+      "letter-spacing",
+      "line-spacing"
+    ],
+    "right_answer": "word-spacing"
+  },
+  {
+    "id": "q37",
+    "text": "In CSS, what property is used to control the style of a box's outer border?",
+    "answers": ["border-style", "element-style", "style", "border-appearance"],
+    "right_answer": "border-style"
+  },
+  {
+    "id": "q38",
+    "text": "What is the purpose of the 'display' property in CSS?",
+    "answers": [
+      "To control how an element is displayed on the page",
+      "To set the background color of an element",
+      "To adjust the font size of text",
+      "To change the element's position"
+    ],
+    "right_answer": "To control how an element is displayed on the page"
+  },
+  {
+    "id": "q39",
+    "text": "What is the CSS property used to change the style of a list marker for list items?",
+    "answers": [
+      "list-style-type",
+      "marker-style",
+      "list-marker-style",
+      "item-marker-style"
+    ],
+    "right_answer": "list-marker-style"
+  },
+  {
+    "id": "q40",
+    "text": "In CSS, how can you make an element's text bold?",
+    "answers": [
+      "font-weight: bold",
+      "text-weight: bold",
+      "element-weight: bold",
+      "bold: true"
+    ],
+    "right_answer": "font-weight: bold"
+  },
+  {
+    "id": "q41",
+    "text": "What is the purpose of the 'visibility' property in CSS?",
+    "answers": [
+      "To hide or show an element",
+      "To set the color of text",
+      "To add padding to an element",
+      "To change the font size of text"
+    ],
+    "right_answer": "To hide or show an element"
+  },
+  {
+    "id": "q42",
+    "text": "In CSS, what property is used to set the order of columns in a multi-column layout?",
+    "answers": ["column-count", "column-order", "column-index", "order"],
+    "right_answer": "order"
+  },
+  {
+    "id": "q43",
+    "text": "Which CSS property is used to change the style of an element's outline?",
+    "answers": [
+      "outline-style",
+      "element-outline",
+      "style",
+      "outline-appearance"
+    ],
+    "right_answer": "outline-style"
+  },
+  {
+    "id": "q44",
+    "text": "What is the CSS property used to control the spacing between the content and the border of an element?",
+    "answers": ["padding", "margin", "border-spacing", "content-spacing"],
+    "right_answer": "padding"
+  },
+  {
+    "id": "q45",
+    "text": "In CSS, what property is used to specify the size of the list marker for list items?",
+    "answers": [
+      "list-style-size",
+      "marker-size",
+      "list-marker-size",
+      "item-marker-size"
+    ],
+    "right_answer": "list-style-size"
+  },
+  {
+    "id": "q46",
+    "text": "What is the purpose of the 'object-fit' property in CSS?",
+    "answers": [
+      "To control how an image or video fits into its container",
+      "To set the background color of an element",
+      "To adjust the font size of text",
+      "To change the element's position"
+    ],
+    "right_answer": "To control how an image or video fits into its container"
+  },
+  {
+    "id": "q47",
+    "text": "In CSS, what property is used to control the position of an element's background image?",
+    "answers": [
+      "background-position",
+      "image-position",
+      "bg-position",
+      "element-background-position"
+    ],
+    "right_answer": "background-position"
+  },
+  {
+    "id": "q48",
+    "text": "Which CSS property is used to create a transition effect when the state of an element changes?",
+    "answers": [
+      "transition",
+      "element-transition",
+      "effect",
+      "state-transition"
+    ],
+    "right_answer": "transition"
+  },
+  {
+    "id": "q49",
+    "text": "What does the 'box-shadow' property in CSS control?",
+    "answers": [
+      "The shadow effect of an element",
+      "The font size of text",
+      "The color of the background",
+      "The element's width"
+    ],
+    "right_answer": "The shadow effect of an element"
+  },
+  {
+    "id": "q50",
+    "text": "In CSS, what property is used to control the visibility of an element without affecting the layout of the page?",
+    "answers": ["visibility", "display", "opacity", "hidden"],
+    "right_answer": "visibility"
+  },
+  {
+    "id": "q51",
+    "text": "What is the purpose of the 'box-shadow' property in CSS?",
+    "answers": [
+      "To create a shadow effect for an element",
+      "To set the background color of an element",
+      "To adjust the font size of text",
+      "To change the element's position"
+    ],
+    "right_answer": "To create a shadow effect for an element"
+  },
+  {
+    "id": "q52",
+    "text": "In CSS, what property is used to control the visibility of an element without affecting the layout of the page?",
+    "answers": ["visibility", "display", "opacity", "hidden"],
+    "right_answer": "visibility"
+  },
+  {
+    "id": "q53",
+    "text": "What CSS property is used to change the background image of an element?",
+    "answers": ["background-image", "image", "element-image", "bg-image"],
+    "right_answer": "background-image"
+  },
+  {
+    "id": "q54",
+    "text": "Which CSS property is used to change the color of an element's border?",
+    "answers": ["border-color", "element-color", "color", "border"],
+    "right_answer": "border-color"
+  },
+  {
+    "id": "q55",
+    "text": "In CSS, what property is used to specify the maximum width of an element?",
+    "answers": [
+      "max-width",
+      "element-width",
+      "width-limit",
+      "element-max-width"
+    ],
+    "right_answer": "max-width"
+  },
+  {
+    "id": "q56",
+    "text": "Which CSS property is used to create a 3D effect on text or elements?",
+    "answers": ["transform", "effect", "3d-effect", "element-transform"],
+    "right_answer": "transform"
+  },
+  {
+    "id": "q57",
+    "text": "What is the purpose of the 'content' property in CSS?",
+    "answers": [
+      "To insert generated content before or after an element",
+      "To control the element's font size",
+      "To add padding to an element",
+      "To change the color of text"
+    ],
+    "right_answer": "To insert generated content before or after an element"
+  },
+  {
+    "id": "q58",
+    "text": "In CSS, how can you remove the underlines from hyperlinks?",
+    "answers": [
+      "text-decoration: none",
+      "link-decoration: none",
+      "underline: none",
+      "hyperlink-style: none"
+    ],
+    "right_answer": "text-decoration: none"
+  },
+  {
+    "id": "q59",
+    "text": "What does the CSS property 'opacity' control?",
+    "answers": [
+      "The transparency of an element",
+      "The element's font size",
+      "The color of the background",
+      "The element's width"
+    ],
+    "right_answer": "The transparency of an element"
+  },
+  {
+    "id": "q60",
+    "text": "In CSS, how can you make an element's text italicized?",
+    "answers": [
+      "font-style: italic",
+      "text-style: italic",
+      "text-italic: true",
+      "element-style: italic"
+    ],
+    "right_answer": "font-style: italic"
+  },
+  {
+    "id": "q61",
+    "text": "What is the CSS property used to control the order of columns in a multi-column layout?",
+    "answers": ["column-count", "column-order", "column-index", "order"],
+    "right_answer": "order"
+  },
+  {
+    "id": "q62",
+    "text": "Which CSS property is used to change the style of an element's outline?",
+    "answers": [
+      "outline-style",
+      "element-outline",
+      "style",
+      "outline-appearance"
+    ],
+    "right_answer": "outline-style"
+  },
+  {
+    "id": "q63",
+    "text": "What is the CSS property used to control the spacing between the content and the border of an element?",
+    "answers": ["padding", "margin", "border-spacing", "content-spacing"],
+    "right_answer": "padding"
+  },
+  {
+    "id": "q64",
+    "text": "In CSS, what property is used to specify the size of the list marker for list items?",
+    "answers": [
+      "list-style-size",
+      "marker-size",
+      "list-marker-size",
+      "item-marker-size"
+    ],
+    "right_answer": "list-style-size"
+  },
+  {
+    "id": "q65",
+    "text": "What is the purpose of the 'object-fit' property in CSS?",
+    "answers": [
+      "To control how an image or video fits into its container",
+      "To set the background color of an element",
+      "To adjust the font size of text",
+      "To change the element's position"
+    ],
+    "right_answer": "To control how an image or video fits into its container"
+  },
+  {
+    "id": "q66",
+    "text": "In CSS, what property is used to control the position of an element's background image?",
+    "answers": [
+      "background-position",
+      "image-position",
+      "bg-position",
+      "element-background-position"
+    ],
+    "right_answer": "background-position"
+  },
+  {
+    "id": "q67",
+    "text": "Which CSS property is used to create a transition effect when the state of an element changes?",
+    "answers": [
+      "transition",
+      "element-transition",
+      "effect",
+      "state-transition"
+    ],
+    "right_answer": "transition"
+  },
+  {
+    "id": "q68",
+    "text": "What does the 'box-shadow' property in CSS control?",
+    "answers": [
+      "The shadow effect of an element",
+      "The font size of text",
+      "The color of the background",
+      "The element's width"
+    ],
+    "right_answer": "The shadow effect of an element"
+  },
+  {
+    "id": "q69",
+    "text": "In CSS, what property is used to control the position of an element within its containing element?",
+    "answers": [
+      "position",
+      "element-position",
+      "placement",
+      "container-position"
+    ],
+    "right_answer": "position"
+  },
+  {
+    "id": "q70",
+    "text": "What is the CSS property used to change the style of a list marker for list items?",
+    "answers": [
+      "list-style-type",
+      "marker-style",
+      "list-marker-style",
+      "item-marker-style"
+    ],
+    "right_answer": "list-marker-style"
+  },
+  {
+    "id": "q71",
+    "text": "In CSS, how can you make an element's text bold?",
+    "answers": [
+      "font-weight: bold",
+      "text-weight: bold",
+      "element-weight: bold",
+      "bold: true"
+    ],
+    "right_answer": "font-weight: bold"
+  },
+  {
+    "id": "q72",
+    "text": "What is the purpose of the 'visibility' property in CSS?",
+    "answers": [
+      "To hide or show an element",
+      "To set the color of text",
+      "To add padding to an element",
+      "To change the font size of text"
+    ],
+    "right_answer": "To hide or show an element"
+  },
+  {
+    "id": "q73",
+    "text": "In CSS, what property is used to set the order of columns in a multi-column layout?",
+    "answers": ["column-count", "column-order", "column-index", "order"],
+    "right_answer": "order"
+  },
+  {
+    "id": "q74",
+    "text": "Which CSS property is used to change the style of an element's outline?",
+    "answers": [
+      "outline-style",
+      "element-outline",
+      "style",
+      "outline-appearance"
+    ],
+    "right_answer": "outline-style"
+  },
+  {
+    "id": "q75",
+    "text": "What is the CSS property used to control the spacing between the content and the border of an element?",
+    "answers": ["padding", "margin", "border-spacing", "content-spacing"],
+    "right_answer": "padding"
+  },
+  {
+    "id": "q76",
+    "text": "In CSS, what property is used to specify the size of the list marker for list items?",
+    "answers": [
+      "list-style-size",
+      "marker-size",
+      "list-marker-size",
+      "item-marker-size"
+    ],
+    "right_answer": "list-style-size"
+  },
+  {
+    "id": "q77",
+    "text": "What is the purpose of the 'object-fit' property in CSS?",
+    "answers": [
+      "To control how an image or video fits into its container",
+      "To set the background color of an element",
+      "To adjust the font size of text",
+      "To change the element's position"
+    ],
+    "right_answer": "To control how an image or video fits into its container"
+  },
+  {
+    "id": "q78",
+    "text": "In CSS, what property is used to control the position of an element's background image?",
+    "answers": [
+      "background-position",
+      "image-position",
+      "bg-position",
+      "element-background-position"
+    ],
+    "right_answer": "background-position"
+  },
+  {
+    "id": "q79",
+    "text": "Which CSS property is used to create a transition effect when the state of an element changes?",
+    "answers": [
+      "transition",
+      "element-transition",
+      "effect",
+      "state-transition"
+    ],
+    "right_answer": "transition"
+  },
+  {
+    "id": "q80",
+    "text": "What does the 'box-shadow' property in CSS control?",
+    "answers": [
+      "The shadow effect of an element",
+      "The font size of text",
+      "The color of the background",
+      "The element's width"
+    ],
+    "right_answer": "The shadow effect of an element"
+  },
+  {
+    "id": "q81",
+    "text": "What is the purpose of the 'clear' property in CSS?",
+    "answers": [
+      "To control how elements clear floats",
+      "To set the color of text",
+      "To add padding to an element",
+      "To change the font size of text"
+    ],
+    "right_answer": "To control how elements clear floats"
+  },
+  {
+    "id": "q82",
+    "text": "What is the CSS property used to change the style of a box's outer border?",
+    "answers": ["border-style", "element-style", "style", "border-appearance"],
+    "right_answer": "border-style"
+  },
+  {
+    "id": "q83",
+    "text": "What is the purpose of the 'display' property in CSS?",
+    "answers": [
+      "To control how an element is displayed on the page",
+      "To set the background color of an element",
+      "To adjust the font size of text",
+      "To change the element's position"
+    ],
+    "right_answer": "To control how an element is displayed on the page"
+  },
+  {
+    "id": "q84",
+    "text": "What is the CSS property used to change the style of a list marker for list items?",
+    "answers": [
+      "list-style-type",
+      "marker-style",
+      "list-marker-style",
+      "item-marker-style"
+    ],
+    "right_answer": "list-marker-style"
+  },
+  {
+    "id": "q85",
+    "text": "In CSS, how can you make an element's text bold?",
+    "answers": [
+      "font-weight: bold",
+      "text-weight: bold",
+      "element-weight: bold",
+      "bold: true"
+    ],
+    "right_answer": "font-weight: bold"
+  },
+  {
+    "id": "q86",
+    "text": "What is the purpose of the 'visibility' property in CSS?",
+    "answers": [
+      "To hide or show an element",
+      "To set the color of text",
+      "To add padding to an element",
+      "To change the font size of text"
+    ],
+    "right_answer": "To hide or show an element"
+  },
+  {
+    "id": "q87",
+    "text": "In CSS, what property is used to set the order of columns in a multi-column layout?",
+    "answers": ["column-count", "column-order", "column-index", "order"],
+    "right_answer": "order"
+  },
+  {
+    "id": "q88",
+    "text": "Which CSS property is used to change the style of an element's outline?",
+    "answers": [
+      "outline-style",
+      "element-outline",
+      "style",
+      "outline-appearance"
+    ],
+    "right_answer": "outline-style"
+  },
+  {
+    "id": "q89",
+    "text": "What is the CSS property used to control the spacing between the content and the border of an element?",
+    "answers": ["padding", "margin", "border-spacing", "content-spacing"],
+    "right_answer": "padding"
+  },
+  {
+    "id": "q90",
+    "text": "In CSS, what property is used to specify the size of the list marker for list items?",
+    "answers": [
+      "list-style-size",
+      "marker-size",
+      "list-marker-size",
+      "item-marker-size"
+    ],
+    "right_answer": "list-style-size"
+  },
+  {
+    "id": "q91",
+    "text": "What is the purpose of the 'object-fit' property in CSS?",
+    "answers": [
+      "To control how an image or video fits into its container",
+      "To set the background color of an element",
+      "To adjust the font size of text",
+      "To change the element's position"
+    ],
+    "right_answer": "To control how an image or video fits into its container"
+  },
+  {
+    "id": "q92",
+    "text": "In CSS, what property is used to control the position of an element's background image?",
+    "answers": [
+      "background-position",
+      "image-position",
+      "bg-position",
+      "element-background-position"
+    ],
+    "right_answer": "background-position"
+  },
+  {
+    "id": "q93",
+    "text": "Which CSS property is used to create a transition effect when the state of an element changes?",
+    "answers": [
+      "transition",
+      "element-transition",
+      "effect",
+      "state-transition"
+    ],
+    "right_answer": "transition"
+  },
+  {
+    "id": "q94",
+    "text": "What does the 'box-shadow' property in CSS control?",
+    "answers": [
+      "The shadow effect of an element",
+      "The font size of text",
+      "The color of the background",
+      "The element's width"
+    ],
+    "right_answer": "The shadow effect of an element"
+  },
+  {
+    "id": "q95",
+    "text": "In CSS, what property is used to control the position of an element within its containing element?",
+    "answers": [
+      "position",
+      "element-position",
+      "placement",
+      "container-position"
+    ],
+    "right_answer": "position"
+  },
+  {
+    "id": "q96",
+    "text": "What is the CSS property used to change the style of a list marker for list items?",
+    "answers": [
+      "list-style-type",
+      "marker-style",
+      "list-marker-style",
+      "item-marker-style"
+    ],
+    "right_answer": "list-marker-style"
+  },
+  {
+    "id": "q97",
+    "text": "In CSS, how can you make an element's text bold?",
+    "answers": [
+      "font-weight: bold",
+      "text-weight: bold",
+      "element-weight: bold",
+      "bold: true"
+    ],
+    "right_answer": "font-weight: bold"
+  },
+  {
+    "id": "q98",
+    "text": "What is the purpose of the 'visibility' property in CSS?",
+    "answers": [
+      "To hide or show an element",
+      "To set the color of text",
+      "To add padding to an element",
+      "To change the font size of text"
+    ],
+    "right_answer": "To hide or show an element"
+  },
+  {
+    "id": "q99",
+    "text": "In CSS, what property is used to set the order of columns in a multi-column layout?",
+    "answers": ["column-count", "column-order", "column-index", "order"],
+    "right_answer": "order"
+  }
+]
