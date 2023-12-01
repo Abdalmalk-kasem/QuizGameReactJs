@@ -3,7 +3,7 @@
 ## Demo
 [Demo](https://build-kj4g904oh-abdalmalk-kasems-projects.vercel.app/)
 
-## Project Description: Quiz Game with Enhanced Features
+## Project Description: 
 
 **Key Features:**
 1. **Interactive Quiz Interface:**
